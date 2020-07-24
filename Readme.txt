@@ -1,0 +1,1 @@
+This code written in java explains the logic behind the snack game, this logic can be used to study changing states of graphical interfaces
